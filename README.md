@@ -1,0 +1,2 @@
+# fullstackopen
+For learning purposes
